@@ -1,0 +1,40 @@
+body{
+	
+	font-family: Helvetica;
+	margin: auto;
+    width: 640px;
+    height: 960px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 50px #888888;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align:center;
+}
+
+.mainpannel{
+	float: left;
+    background: deepskyblue;
+    padding:10px;
+    width:620px;
+    height:97.89%;
+    border-radius: 10px 10px 10px 10px;
+    color: #262626;
+}
+
+.location{
+    margin-top:40px;
+    font-size: 4em;
+}
+
+.temperature{
+    margin: 10px;
+    font-size: 3em;
+}
+/* .left {
+	float: right;
+    background: #171C34;
+    width:197px;
+    height:100%;
+    border-radius: 0px 10px 10px 0px;
+    color: #262626;
+} */
